@@ -15,6 +15,8 @@ STATIC_DIR="./client"
 PUBLISHABLE_KEY=""
 SECRET_KEY=""
 ```
+To get the PUBLISHABLE_KEY and SECRET_KEY just you need to create an accout in https://stripe.com/ and navegiate to the **devlopers** in the top right hand corner tehn you will viwe the overview of the devlopes secetion then you can find the **API keys** under this section you can find PUBLISHABLE_KEY and SECRET_KEY
+
 3. Initialise and start the project
 ```
 npm install
