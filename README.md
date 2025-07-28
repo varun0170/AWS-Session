@@ -52,7 +52,7 @@ git clone https://github.com/verma-kunal/AWS-Session.git
 ```
 2. Setup the following environment variables - `(.env)` file
 ```
-DOMAIN= ""
+DOMAIN= "get it from stripe.com.... left side you can see developer and in that API section you will get those keys"
 PORT=3000
 STATIC_DIR="./client"
 
